@@ -9,7 +9,7 @@
 flutter_mvvm_riverpod
 https://github.com/namanh11611/flutter_mvvm_riverpod
 
-World Gym：健身房與居家健身
+World Gym：健身房與居家健身           
 https://play.google.com/store/apps/details?id=com.worldgymtaiwan.wgapp&hl=zh_TW
 
 預覽
